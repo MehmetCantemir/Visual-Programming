@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\sayfa8\sayfa8\bin\Debug\sayfa8.exe.config
+C:\Users\mehme\source\repos\sayfa8\sayfa8\bin\Debug\sayfa8.exe
+C:\Users\mehme\source\repos\sayfa8\sayfa8\bin\Debug\sayfa8.pdb
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.Form1.resources
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.Properties.Resources.resources
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.exe
+C:\Users\mehme\source\repos\sayfa8\sayfa8\obj\Debug\sayfa8.pdb

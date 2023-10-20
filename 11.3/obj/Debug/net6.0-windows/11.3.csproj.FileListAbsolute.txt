@@ -1,0 +1,16 @@
+C:\Users\mehme\source\repos\sayfa8\11.3\bin\Debug\net6.0-windows\11.3.exe
+C:\Users\mehme\source\repos\sayfa8\11.3\bin\Debug\net6.0-windows\11.3.deps.json
+C:\Users\mehme\source\repos\sayfa8\11.3\bin\Debug\net6.0-windows\11.3.runtimeconfig.json
+C:\Users\mehme\source\repos\sayfa8\11.3\bin\Debug\net6.0-windows\11.3.dll
+C:\Users\mehme\source\repos\sayfa8\11.3\bin\Debug\net6.0-windows\11.3.pdb
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\_11._3.Form1.resources
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.AssemblyInfo.cs
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.dll
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\refint\11.3.dll
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.pdb
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\11.3.genruntimeconfig.cache
+C:\Users\mehme\source\repos\sayfa8\11.3\obj\Debug\net6.0-windows\ref\11.3.dll

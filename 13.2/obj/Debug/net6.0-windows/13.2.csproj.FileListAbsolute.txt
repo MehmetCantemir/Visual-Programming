@@ -1,0 +1,16 @@
+C:\Users\mehme\source\repos\sayfa8\13.2\bin\Debug\net6.0-windows\13.2.exe
+C:\Users\mehme\source\repos\sayfa8\13.2\bin\Debug\net6.0-windows\13.2.deps.json
+C:\Users\mehme\source\repos\sayfa8\13.2\bin\Debug\net6.0-windows\13.2.runtimeconfig.json
+C:\Users\mehme\source\repos\sayfa8\13.2\bin\Debug\net6.0-windows\13.2.dll
+C:\Users\mehme\source\repos\sayfa8\13.2\bin\Debug\net6.0-windows\13.2.pdb
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\_13._2.Form1.resources
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.AssemblyInfo.cs
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.dll
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\refint\13.2.dll
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.pdb
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\13.2.genruntimeconfig.cache
+C:\Users\mehme\source\repos\sayfa8\13.2\obj\Debug\net6.0-windows\ref\13.2.dll

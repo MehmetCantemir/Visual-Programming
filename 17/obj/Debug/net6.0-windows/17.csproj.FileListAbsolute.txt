@@ -1,0 +1,16 @@
+C:\Users\mehme\source\repos\sayfa8\17\bin\Debug\net6.0-windows\17.exe
+C:\Users\mehme\source\repos\sayfa8\17\bin\Debug\net6.0-windows\17.deps.json
+C:\Users\mehme\source\repos\sayfa8\17\bin\Debug\net6.0-windows\17.runtimeconfig.json
+C:\Users\mehme\source\repos\sayfa8\17\bin\Debug\net6.0-windows\17.dll
+C:\Users\mehme\source\repos\sayfa8\17\bin\Debug\net6.0-windows\17.pdb
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\_17.Form1.resources
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.AssemblyInfo.cs
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.dll
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\refint\17.dll
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.pdb
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\17.genruntimeconfig.cache
+C:\Users\mehme\source\repos\sayfa8\17\obj\Debug\net6.0-windows\ref\17.dll
